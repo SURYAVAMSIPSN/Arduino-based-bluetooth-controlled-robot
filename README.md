@@ -6,3 +6,14 @@ and run the entire program.
 
 DCBluetooth.ino ==> for controlling the DC motor wheels
 SERVOBluetooth.ino ==> for controlling the "Arm".
+
+
+Tools used: 
+1. Arduino UNO board
+2. HC-05 Bluetooth Module
+3. DC motors (Adafruit) for Arduino
+4. SG-90 Servo Motors
+5. Jumper wires and normal wires
+6. Small breadboard
+7. Robot 2-wheel Chassis
+8. Arduino Coding Platform
