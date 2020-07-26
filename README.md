@@ -7,6 +7,8 @@ and run the entire program.
 Also note: There is a soil sensor attacheed in the video Implementation-2. That was just used for adding something that looks like a claw at the end of the arm!
 The soil sensor is not part of the code. 
 
+Yet another note: Change the PIN numbers in the code according to your physical connections!! 
+
 DCBluetooth.ino ==> for controlling the DC motor wheels
 SERVOBluetooth.ino ==> for controlling the "Arm".
 
