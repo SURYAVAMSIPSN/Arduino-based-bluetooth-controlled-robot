@@ -4,7 +4,6 @@ This is a short project in which a 2 wheeled robot's movement is controlled by b
 Please note: There are 2 .ino files here. There was a file in which both were combined into one single code, but that file got deleted. So combine these two codes 
 and run the entire program. 
 
-
 Also note: There is a soil sensor attacheed in the video Implementation-2. That was just used for adding something that looks like a claw at the end of the arm!
 The soil sensor is not part of the code. 
 
@@ -22,3 +21,6 @@ Tools used:
 7. Robot 2-wheel Chassis
 8. Arduino Coding Platform
 9. 9V battery
+
+
+Output result videos can be seen in the Implementation 1 and 2 videos. Hope you like it! 
